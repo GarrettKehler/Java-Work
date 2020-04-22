@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BattleShipAI
+comment1.params=guesses
+comment1.target=java.lang.String\ makeGuess(char[][])
+comment2.params=row\ col
+comment2.target=java.lang.String\ hit(int,\ int)
+numComments=3
